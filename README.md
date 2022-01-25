@@ -6,3 +6,5 @@ The acrobot system includes two joints and two links, where the joint between th
 ## implementation
 Implemented using the deep Q learning algorithm to solve the acrobot environment
 
+## output
+![output gif](https://github.com/Rishabh-DA/Acrobot-ReinforcementLearning/blob/433b5d4d15186afd0d9e19e1e243b65127d5163f/acrobot.gif)
